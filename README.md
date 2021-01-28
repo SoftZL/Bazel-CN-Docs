@@ -8,7 +8,7 @@
 助力Bazel在中国生根发芽，更多开发者用上Bazel，高效开发，乐享生活。
 
 ## 项目内容：
-起步阶段，我们会做Baze官方文档的中文翻译工作（对应[Bazel官网文档](https://github.com/bazelbuild/bazel/tree/master/site/docs))，翻译的内容将放在docs目录下
+起步阶段，我们会做Baze官方文档的中文翻译工作（对应[Bazel官网文档](https://github.com/bazelbuild/bazel/tree/master/site/docs))，翻译的内容将放在docs目录下。
 由于时间的关系，优先翻译基本概念和工作贴合紧密的文档。
 
 ## 我们需要帮助：
