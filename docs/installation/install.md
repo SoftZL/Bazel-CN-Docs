@@ -1,6 +1,6 @@
 # 安装 Bazel
 
-本页面描述Bazel支持的各个平台和其他的开源软件包。
+本页面描述Bazel支持的各个系统和其他的开源软件包。
 
 谷歌正式支持以下系统：
 * [Ubuntu Linux](https://github.com/bazelbuild/bazel/blob/master/site/docs/install-ubuntu.md)
