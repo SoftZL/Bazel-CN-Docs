@@ -12,4 +12,13 @@
 我们在[Google云市场](https://console.cloud.google.com/marketplace/details/google/bazel)上公开了基于Ubuuntu Linux(16.04)的Bazel容器镜像，可以用来在[Docker](https://www.docker.com/)容器中使用Bazel。<br/>
 相关的文档资料在[这里](https://github.com/bazelbuild/bazel/blob/master/site/docs/bazel-container.md)。
 
+# 教程
+- [编译C++项目教程](https://github.com/bazelbuild/bazel/blob/master/site/docs/tutorial/cpp.md)
+- [编译Java项目教程](https://github.com/bazelbuild/bazel/blob/master/site/docs/tutorial/java.md)
+- [编译Android应用教程](https://github.com/bazelbuild/bazel/blob/master/site/docs/tutorial/android-app.md)
+- [编译iOS应用教程](https://github.com/bazelbuild/bazel/blob/master/site/docs/tutorial/ios-app.md)
+
+如果你还不清楚Workspace, Package, Target， Rule时如何关联在一起的， 请先阅读[Bazel概念篇](https://github.com/bazelbuild/bazel/blob/master/site/docs/build-ref.html)<br/>
+当你熟悉这些基础后，可以尝试[其他语言的规则](https://github.com/bazelbuild/bazel/blob/master/site/docs/rules.md)
+
 # 未完待续
