@@ -21,4 +21,13 @@
 如果你还不清楚Workspace, Package, Target， Rule时如何关联在一起的， 请先阅读[Bazel概念篇](https://github.com/bazelbuild/bazel/blob/master/site/docs/build-ref.html)<br/>
 当你熟悉这些基础后，可以尝试[其他语言的规则](https://github.com/bazelbuild/bazel/blob/master/site/docs/rules.md)
 
-# 未完待续
+# 迁移
+如果想要学习如何将你的项目迁移到Bazel，请参考以下指导：
+- [从Maven迁移到Bazel](https://github.com/bazelbuild/bazel/blob/master/site/docs/migrate-maven.md)
+- [从Xcode迁移到Bazel](https://github.com/bazelbuild/bazel/blob/master/site/docs/migrate-xcode.md)
+
+# 参考链接
+以下资源可以帮助你更深入的探索Bazel：
+- [Bazel的概念和术语](https://github.com/bazelbuild/bazel/blob/master/site/docs/build-ref.html)
+- [Bazel的用户手册](https://github.com/bazelbuild/bazel/blob/master/site/docs/user-manual.html)
+- [多语言规则](https://github.com/bazelbuild/bazel/blob/master/site/docs/rules.md)
